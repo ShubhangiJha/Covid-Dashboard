@@ -16,5 +16,5 @@ To get idea about percentage of population infected and death percentage country
 * *SQL file* - contains the query for data extraction based on both the sheets and tables.
 * *Tableau dashboard* - it visualises total death percentage and percentage people infected.
 
-![WhatsApp Image 2021-08-09 at 23 32 34](https://user-images.githubusercontent.com/56463608/128752650-d977b788-c245-45e9-adac-368a58a2175b.jpeg)
+![WhatsApp Image 2021-08-13 at 14 46 33](https://user-images.githubusercontent.com/56463608/129334908-7cd79bc9-acb5-402d-b235-4874bd9a1cea.jpeg)
 
